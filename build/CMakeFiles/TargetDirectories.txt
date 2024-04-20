@@ -1,0 +1,3 @@
+/home/danylo/Projects/chat-room/build/CMakeFiles/sharedptr.dir
+/home/danylo/Projects/chat-room/build/CMakeFiles/edit_cache.dir
+/home/danylo/Projects/chat-room/build/CMakeFiles/rebuild_cache.dir
